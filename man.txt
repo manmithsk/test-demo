@@ -1,0 +1,2 @@
+this is new repository
+learning how to push git repo
